@@ -1,229 +1,228 @@
-101 Dalmatians
-Abraham Lincoln
-alien
-angel
-apache warrior
-assassin
-barney
-billionaire playboy
-blob
-bodybuilder
-boy band
-boy scout
-Bruce lee
-bull
-cactus
-Canada
-carnie
-Cat
-cheetah
-child beauty pageant queen
-chimpanzee
-chuck Norris
-coachella lineup
-College A Cappella Group
-Conan
-conjoined twins
-cowboy
-crazy cat lady
-Crocodile Hunter
-Darth Vader
-demon
-demon-possessed car
-dexter
-Disembodied Head
-dolphin
-dragon
-E.T.
-Eagle
-Electric Eel
-Emperor Penguin
-everyone at burning man
-evil doll
-fainting goat
-femme fatale
-Forrest Gump
-Frankenstein
-Freddy
-French bulldog
-Gandhi
-Genghis Khan
-George W. Bush
-giant squid
-giraffe
-girl scout
-gladiator
-Google
-gorilla
-grim reaper
-Hannibal
-Heisenberg
-Helen Keller
-Hermione
-high school marching band
-Hillary Clinton
-hippo
-hipster
-hobo
-hockey player
-homer
-hulk
-Hunchback
-identical twins
-iron man
-jack bauer
-Jason
-Justin bieber
-k-pop star
-Katniss
-Kindergarten Class
-leprechaun
-Literally Insane Clown Posse
-Lucha Libre Wrestler
-macgyver
-mad scientist
-mafia don
-Mario Brothers.
-marshmallow man
-Martha Stewart
-me
-Meat Loaf
-men in black
-mermaid
-Michael Jackson
-mike Tyson
-Miley Cyrus
-mime
-moose
-Mr. Rogers
-mummy
-Musketeer
-my boss
-my ex
-my significant other
-Nigerian prince
-ninja
-nudist
-Obama
-octopus
-Olympic gymnast
-Owl
-pet rock
-pick a celebrity
-pick a comic book character
-pick a movie character
-pick a TV character
-pick an action movie star
-pirate
-Polar Bear
-psychic
-pterodactyl
-Pukachu
-queen
-Rambo
-redneck
-Reggae Band
-Rhinoceros
-Robin Hood
-robot
-saber-toothed tiger
-samurai
-Sasquatch
-secret agent
-senior citizen bowling team
-shark
-sharpshooter
-Sherlock Holmes
-skeleton
-sloth
-smoke monster
-snake
-soccer mom
-spartan
-spider
-Stephen Hawking
-street fighter
-sumo wrestler
-supermodel
-swarm of killer bees
-t-rex
-Terminator
-the devil
-the doctor
-the dude
-the Illuminati
-the kardashians
-the player to your left
-the pope
-The Statue of library
-the u.n.
-turtle
-ultimate fighting cgampion
-unicorn
-vampire
-vampire slayer
-vegan
-velociraptor
-viking
-werewolf
-Whale
-willy wonka
-witch
-Wizard
-wooly mammoth
-Your Mom
-Zombie
-amazon warrior
-animorph
-army of skeletons
-ash
-blank
-carnivorous plant
-derby girl
-Dr. horrible
-France
-Godzilla
-Goliath
-grizzly bear
-Hercules
-honey badger
-hydra
-iron giant
-kaiju
-keanu reeves
-king Kong
-king rather
-literal teen wolf
-loch ness monster
-mothra
-ocelot
-poltergeist
-prince charming
-raccoon
-sandy cheeks
-star lord
-stegosaurus
-sushi chef
-swarm of piranhas
-the common cold
-the navy
-the player to your right
-trapper
-two teibbles
-water buffalo
-yeti
-Astro Boy
-Akira
-Naruto
-Princess Mononoke
-Afro Samurai
-Link
-Leeroy Jenkins
-Creeper
-Peter Pan
-Genie
-Little Pony
-Goku
-Team Rocket
-Totoro
+101 Dalmatians (new)
+Abraham Lincoln (new)
+alien (new)
+angel (new)
+apache warrior (new)
+assassin (new)
+barney (new)
+billionaire playboy (new)
+blob (new)
+bodybuilder (new)
+boy band (new)
+boy scout (new)
+Bruce lee (new)
+bull (new)
+cactus (new)
+Canada (new)
+carnie (new)
+Cat (new)
+cheetah (new)
+child beauty pageant queen (new)
+chimpanzee (new)
+chuck Norris (new)
+coachella lineup (new)
+College A Cappella Group (new)
+Conan (new)
+conjoined twins (new)
+cowboy (new)
+crazy cat lady (new)
+Crocodile Hunter (new)
+Darth Vader (new)
+demon (new)
+demon-possessed car (new)
+dexter (new)
+Disembodied Head (new)
+dolphin (new)
+dragon (new)
+E.T. (new)
+Eagle (new)
+Electric Eel (new)
+Emperor Penguin (new)
+everyone at burning man (new)
+evil doll (new)
+fainting goat (new)
+femme fatale (new)
+Forrest Gump (new)
+Frankenstein (new)
+Freddy (new)
+French bulldog (new)
+Gandhi (new)
+Genghis Khan (new)
+George W. Bush (new)
+giant squid (new)
+giraffe (new)
+girl scout (new)
+gladiator (new)
+Google (new)
+gorilla (new)
+grim reaper (new)
+Hannibal (new)
+Heisenberg (new)
+Helen Keller (new)
+Hermione (new)
+high school marching band (new)
+Hillary Clinton (new)
+hippo (new)
+hipster (new)
+hobo (new)
+hockey player (new)
+homer (new)
+hulk (new)
+Hunchback (new)
+identical twins (new)
+iron man (new)
+jack bauer (new)
+Jason (new)
+Justin bieber (new)
+k-pop star (new)
+Katniss (new)
+Kindergarten Class (new)
+leprechaun (new)
+Literally Insane Clown Posse (new)
+Lucha Libre Wrestler (new)
+macgyver (new)
+mad scientist (new)
+mafia don (new)
+Mario Brothers. (new)
+marshmallow man (new)
+Martha Stewart (new)
+me (new)
+Meat Loaf (new)
+men in black (new)
+mermaid (new)
+Michael Jackson (new)
+mike Tyson (new)
+Miley Cyrus (new)
+mime (new)
+moose (new)
+Mr. Rogers (new)
+mummy (new)
+Musketeer (new)
+my boss (new)
+my ex (new)
+my significant other (new)
+Nigerian prince (new)
+ninja (new)
+nudist (new)
+Obama (new)
+octopus (new)
+Olympic gymnast (new)
+Owl (new)
+pet rock (new)
+pick a celebrity (new)
+pick a comic book character (new)
+pick a movie character (new)
+pick a TV character (new)
+pick an action movie star (new)
+pirate (new)
+Polar Bear (new)
+psychic (new)
+pterodactyl (new)
+Pukachu (new)
+queen (new)
+Rambo (new)
+redneck (new)
+Reggae Band (new)
+Rhinoceros (new)
+Robin Hood (new)
+robot (new)
+saber-toothed tiger (new)
+samurai (new)
+Sasquatch (new)
+secret agent (new)
+senior citizen bowling team (new)
+shark (new)
+sharpshooter (new)
+Sherlock Holmes (new)
+skeleton (new)
+sloth (new)
+smoke monster (new)
+snake (new)
+soccer mom (new)
+spartan (new)
+spider (new)
+Stephen Hawking (new)
+street fighter (new)
+sumo wrestler (new)
+supermodel (new)
+swarm of killer bees (new)
+t-rex (new)
+Terminator (new)
+the devil (new)
+the doctor (new)
+the dude (new)
+the Illuminati (new)
+the kardashians (new)
+the player to your left (new)
+the pope (new)
+The Statue of library (new)
+the u.n. (new)
+turtle (new)
+ultimate fighting cgampion (new)
+unicorn (new)
+vampire (new)
+vampire slayer (new)
+vegan (new)
+velociraptor (new)
+viking (new)
+werewolf (new)
+Whale (new)
+willy wonka (new)
+witch (new)
+Wizard (new)
+wooly mammoth (new)
+Your Mom (new)
+Zombie (new)
+amazon warrior (new)
+animorph (new)
+army of skeletons (new)
+ash (new)
+carnivorous plant (new)
+derby girl (new)
+Dr. horrible (new)
+France (new)
+Godzilla (new)
+Goliath (new)
+grizzly bear (new)
+Hercules (new)
+honey badger (new)
+hydra (new)
+iron giant (new)
+kaiju (new)
+keanu reeves (new)
+king Kong (new)
+king rather (new)
+literal teen wolf (new)
+loch ness monster (new)
+mothra (new)
+ocelot (new)
+poltergeist (new)
+prince charming (new)
+raccoon (new)
+sandy cheeks (new)
+star lord (new)
+stegosaurus (new)
+sushi chef (new)
+swarm of piranhas (new)
+the common cold (new)
+the navy (new)
+the player to your right (new)
+trapper (new)
+two teibbles (new)
+water buffalo (new)
+yeti (new)
+Astro Boy (new)
+Akira (new)
+Naruto (new)
+Princess Mononoke (new)
+Afro Samurai (new)
+Link (new)
+Leeroy Jenkins (new)
+Creeper (new)
+Peter Pan (new)
+Genie (new)
+Little Pony (new)
+Goku (new)
+Team Rocket (new)
+Totoro (new)
 Batman
