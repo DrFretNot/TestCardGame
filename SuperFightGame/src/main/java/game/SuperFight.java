@@ -130,9 +130,16 @@ public static void main(String[] args){
 		for(int position = 4; position < 9; position++){
 			System.out.println(tempGameArray[position]);
 		}
+	
+//**********************************************************************************
+//Need to add option to get another 1 random character card and/or 1 or 2 attribute cards due to some cards effects
+	
+	
+	
+	
+	
 			
 	}
-
 
 //**********************************************************************
 
